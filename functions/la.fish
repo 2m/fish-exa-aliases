@@ -1,3 +1,3 @@
 function la
-  exa -bghl --sort created --git -a
+  l -a $argv
 end
